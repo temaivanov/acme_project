@@ -129,3 +129,9 @@ dmypy.json
 .pyre/
 
 .idea
+
+# Ignore .DS_Store for macOS
+.DS_Store
+
+# Ignore all .DS_Store inside folders
+**/.DS_Store
